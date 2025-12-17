@@ -11,7 +11,6 @@
 - 🎓 Final year **B.E. Computer Engineering** student  
 - 🌐 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  
 - 🏗️ Currently working on **Faculty Remuneration System** (Real-world college project)  
-- 📚 Learning **Next.js**, **Redux Toolkit**, and **System Design basics**  
 - 🎯 Goal: Secure a **Software Developer / MERN Stack role**  
 - ✨ Building projects that **solve real-world problems & scalable web application**
 
