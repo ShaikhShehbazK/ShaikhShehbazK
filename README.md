@@ -16,6 +16,36 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏫 Faculty Remuneration System (MERN Stack)
+A full-stack web application developed for my college to automate faculty workload and payment management.
+
+**Key Highlights:**
+- Role-based authentication (Admin & Faculty)
+- Redux Toolkit for scalable global state management
+- Automated workload and remuneration calculation
+- Real-time UI updates and secure APIs
+
+🔗 **GitHub:** https://github.com/ShaikhShehbazK/Faculty-Remuneration-RCOE  
+🌐 **Live Demo:** https://remune-track.netlify.app/
+
+---
+
+### 🗳️ E-Voting Platform (MERN Stack)
+A secure online voting system with real-time monitoring and admin controls.
+
+**Key Highlights:**
+- JWT-based authentication with Admin & Voter roles
+- Admin dashboard for candidate management
+- Real-time voting statistics
+- Cloudinary integration for image storage
+
+🔗 **GitHub:** https://github.com/ShaikhShehbazK/E-Voting-Website  
+🌐 **Live Demo:** https://jwtbased-website-e-voting.netlify.app/
+
+---
+
 # 💻 Tech Stack:
 
 ### Languages  
