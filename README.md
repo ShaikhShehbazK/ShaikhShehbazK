@@ -1,22 +1,43 @@
 # 💫 Hi 👋, I'm Shehbaz Shaikh  
-**A passionate MERN Stack Developer**
+**Java Backend Developer | Full Stack Developer | Spring Boot | React.js**
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://aquamarine-profiterole-413375.netlify.app/)  
+<!--[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://aquamarine-profiterole-413375.netlify.app/)  -->
 [![GitHub](https://img.shields.io/badge/GitHub-@ShaikhShehbazK-black?style=flat-square&logo=github)](https://github.com/ShaikhShehbazK)   
 ![Visitors](https://komarev.com/ghpvc/?username=ShaikhShehbazK&style=flat-square&color=blue)
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Final year **B.E. Computer Engineering** student  
-- 🌐 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  
-- 🏗️ Currently working on **Faculty Remuneration System** (Real-world college project)  
-- 🎯 Goal: Secure a **Software Developer / MERN Stack role**  
-- ✨ Building projects that **solve real-world problems & scalable web application**
+- 🎓 Computer Engineering Graduate from Rizvi College of Engineering, Mumbai. 
+- 🌐 Java Backend Developer with hands-on experience in Spring Boot and RESTful API development.
+- 💻 Full Stack Developer experienced in React.js and backend technologies.
+- 🗄️ Skilled in MySQL, Spring Data JPA, Hibernate and MongoDB.
+- 🔨 Experienced in building full-stack applications with CRUD operations, authentication, file uploads and payment gateway integration.  
+- 🎯 Currently focused on building scalable backend applications and strengthening my Java Full Stack development skills.
 
 ---
 
 ## 🚀 Featured Projects
+
+
+🏫 Education CRM – Education Management System
+
+Tech Stack: Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, React.js, Bootstrap, Razorpay
+
+A full-stack Education CRM application developed to manage students, courses, enrollments and administrative operations.
+
+Key Features:
+Developed RESTful APIs using Java and Spring Boot.
+Implemented student registration and login functionality.
+Built course browsing and enrollment management features.
+Developed admin functionalities for adding, updating and deleting courses.
+Implemented course image uploading functionality.
+Integrated Razorpay payment gateway.
+Stored payment order details in MySQL.
+Designed backend architecture using Controller, Service, Repository and Entity layers.
+Integrated React.js frontend with Spring Boot backend.
+
+🔗 GitHub: [https://github.com/ShaikhShehbazK/EducationCRM](https://github.com/ShaikhShehbazK/EducationCRM)
 
 ### 🏫 Faculty Remuneration System (MERN Stack)
 A full-stack web application developed for my college to automate faculty workload and payment management.
