@@ -119,7 +119,7 @@ A secure online voting system with real-time monitoring and admin controls.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
--->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShaikhShehbazK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -127,6 +127,7 @@ A secure online voting system with real-time monitoring and admin controls.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikhShehbazK&show_icons=true&theme=dark&hide_border=false)
 ---
+-->
 
 ## 🌍 Let’s Connect  
 - 🌐 [Portfolio Website](https://aquamarine-profiterole-413375.netlify.app/)  
