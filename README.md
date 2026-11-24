@@ -112,7 +112,7 @@ A secure online voting system with real-time monitoring and admin controls.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehbaz-shaikh-087734322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazshaikh485@gmail.com) 
 
 ---
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShaikhShehbazK&theme=dark&hide_border=false)<br/>
@@ -124,7 +124,8 @@ A secure online voting system with real-time monitoring and admin controls.
 ![](https://github-contributor-stats.vercel.app/api?username=ShaikhShehbazK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=ShaikhShehbazK&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikhShehbazK&show_icons=true&theme=dark&hide_border=false)
 ---
 
 ## 🌍 Let’s Connect  
