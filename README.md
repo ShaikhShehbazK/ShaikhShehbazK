@@ -27,15 +27,15 @@ Tech Stack: Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, React.js, Boot
 A full-stack Education CRM application developed to manage students, courses, enrollments and administrative operations.
 
 Key Features:
-Developed RESTful APIs using Java and Spring Boot.
-Implemented student registration and login functionality.
-Built course browsing and enrollment management features.
-Developed admin functionalities for adding, updating and deleting courses.
-Implemented course image uploading functionality.
-Integrated Razorpay payment gateway.
-Stored payment order details in MySQL.
-Designed backend architecture using Controller, Service, Repository and Entity layers.
-Integrated React.js frontend with Spring Boot backend.
+- Developed RESTful APIs using Java and Spring Boot.
+- Implemented student registration and login functionality.
+- Built course browsing and enrollment management features.
+- Developed admin functionalities for adding, updating and deleting courses.
+- Implemented course image uploading functionality.
+- Integrated Razorpay payment gateway.
+- Stored payment order details in MySQL.
+- Designed backend architecture using Controller, Service, Repository and Entity layers.
+- Integrated React.js frontend with Spring Boot backend.
 
 🔗 GitHub: [https://github.com/ShaikhShehbazK/EducationCRM](https://github.com/ShaikhShehbazK/EducationCRM)
 
@@ -74,16 +74,24 @@ A secure online voting system with real-time monitoring and admin controls.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+**Frameworks & Tools:**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Database:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
 **Tools & Devops:**  
@@ -96,10 +104,6 @@ A secure online voting system with real-time monitoring and admin controls.
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-**Additional Skills:**  
-![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react)  
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 
 ---
